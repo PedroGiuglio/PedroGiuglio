@@ -1,6 +1,6 @@
- <h3 align="center">¡Hola! Soy PedroGiuglio👋👨🏻‍💻</h3>
+ <h3 align="center">¡Hola! Soy PedroGiuglio 👋</h3>
 </p>
-<p align="center">Soy <strong>Desarrollador Junior Front End</strong> de Argentina.<br/></p>
+<p align="center">Soy <strong>Desarrollador Front End Jr</strong> de Argentina.<br/></p>
 <br />
 
 

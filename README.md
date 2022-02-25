@@ -18,4 +18,4 @@ const aboutMe = {
 };
 ```
 
-- 🌱 I’m currently learning React ⚛.
+<h5 align="center"> 🌱 I’m currently learning React ⚛. </h5>

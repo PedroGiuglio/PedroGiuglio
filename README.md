@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @PedroGiuglio!
-- I'm a Frontend developer Jr from Buenos Aires, Argentina. 
+ <h3 align="center">¡Hola! Soy PedroGiuglio👋👨🏻‍💻</h3>
+</p>
+<p align="center">Soy <strong>Desarrollador Junior Front End</strong> de Argentina.<br/></p>
+<br />
+
 
 ```javascript
 const aboutMe = {

@@ -1,4 +1,4 @@
- <h3 align="center">¡Hola! Soy PedroGiuglio 👋</h3>
+ <h2 align="center">¡Hola! Soy PedroGiuglio 👋</h2>
 </p>
 <p align="center">Soy <strong>Desarrollador Front End Jr</strong> de Argentina.<br/></p>
 <br />
@@ -18,4 +18,4 @@ const aboutMe = {
 };
 ```
 
-<h5 align="center"> 🌱 I’m currently learning React ⚛. </h5>
+<h3 align="center"> 🌱 I’m currently learning React ⚛. </h3>

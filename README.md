@@ -5,4 +5,4 @@
 
 
 
-<h3 align="center"> 🌱 Actualmente aprendiendo React ⚛. </h3>
+<h3 align="center">Actualmente aprendiendo React. </h3>

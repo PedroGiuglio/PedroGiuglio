@@ -1,8 +1,8 @@
- <h2 align="center">¡Hola! Soy PedroGiuglio 👋</h2>
+ <h2 align="center">¡Hola! Soy Pedro Giuglio 👋</h2>
 </p>
-<p align="center">Soy <strong>Desarrollador Front End Jr</strong> de Argentina.<br/></p>
+<p align="center"><strong>Front End Developer</strong><br/></p>
 <br />
 
 
 
-<h3 align="center">Actualmente aprendiendo React. </h3>
+<h3 align="center">Angular - Typescript</h3>
